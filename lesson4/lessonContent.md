@@ -7,5 +7,5 @@ Identify how different industries use machines
 Analyze case studies of machine usage in industries
 Connect theoretical knowledge of machines to real-world applications
 
-## Topics
-undefined
+## Topics Covered
+Machines in the agriculture industry, Machines in the manufacturing industry, Machine case studies

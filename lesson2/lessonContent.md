@@ -7,5 +7,5 @@ Differentiate between simple and complex machines
 Name the different kinds of simple machines and their uses
 Identify examples of complex machines
 
-## Topics
-undefined
+## Topics Covered
+Simple vs complex machines, Types of simple machines, Examples of complex machines
