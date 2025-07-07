@@ -7,5 +7,5 @@ Identify what a machine is
 Summarize the history of machines
 Outline the importance of machines in society
 
-## Topics
-undefined
+## Topics Covered
+Definition of a machine, History of machines, Impact of machines on society
